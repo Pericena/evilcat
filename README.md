@@ -15,11 +15,11 @@ $cd evilcat
 $bash evilcat
 ```
 ### Nota usar acortador para enviar a la victima 
-http://tinyurl.com/
-https://bitly.com/
-https://n9.cl/es
-https://cutt.ly/es
-https://rockcontent.com/es/blog/acortadores-de-url/
+- http://tinyurl.com/
+- https://bitly.com/
+- https://n9.cl/es
+- https://cutt.ly/es
+- https://rockcontent.com/es/blog/acortadores-de-url/
 
 ### uso
 Al usar acortador nos permite camuflar nuestro link original.
