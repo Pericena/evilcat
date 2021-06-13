@@ -31,7 +31,7 @@ credencial.txt
 [![](https://1.bp.blogspot.com/-TPXB56h0ACg/XtJqJJAVscI/AAAAAAAATHc/OklE03Dnj54l1snhvkiSNEpxI5CY5uBgACLcBGAsYHQ/s1600/Screenshot_9.png)](https://lpericena.blogspot.com/2020/05/evilcat.html)
 
 ## Licencia
-Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto esta bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 
 ## Expresiones de Gratitud 
@@ -39,9 +39,10 @@ Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mi
 Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
 - 🐤 twitter             https://twitter.com/LPericena
 
-* Gracias  ðŸ¤“.
+* Gracias 
 
 ---¸ Por [Pericena](https://github.com/Pericena)
+Donación paypal
+https://www.paypal.com/paypalme/lpericena
